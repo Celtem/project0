@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Celestin blog</title>
+    </head>
+    <body>
+        Hello! Welcome to my blog
+        <h2>Topics in the blog</h2>
+        <ol>
+            <li>Cyber security</li>
+            <li>Threat intelligence</li>
+            <li>vulnerability assessment</li>
+            <li>Risk management</li>
+        </ol>
+    </body>
+</html>
